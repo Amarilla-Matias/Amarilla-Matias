@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=flat">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat">
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/PHP-007396?logo=php&logoColor=fff&style=flat">
   
   <!-- Agrega más tecnologías aquí -->
 </p>
