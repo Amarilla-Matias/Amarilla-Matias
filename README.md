@@ -23,5 +23,5 @@
 </p>
 
 ## Contacto 📧
-- **Email**: [tu-email@gmail.com](amarillamatias71@gmail.com)
+- **Email**: [amarillamatias71@gmail.com](amarillamatias71@gmail.com)
 
