@@ -14,12 +14,12 @@
 ## Tecnologías Conocidas 🎉
 
 <p align="left">
-  <img src="https://img.shields.io/badge/GIT-E34F26?style=flat-square&logo=git&logoColor=white" alt="Git" style="margin: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="margin: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="margin: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" style="margin: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="margin: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" style="margin: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+  <img src="https://img.shields.io/badge/GIT-E34F26?style=flat-square&logo=git&logoColor=white" alt="" style="margin: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="" style="margin: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="" style="margin: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="" style="margin: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="" style="margin: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="" style="margin: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
 </p>
 
 
