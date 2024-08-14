@@ -23,6 +23,6 @@
 </p>
 
 ## Contacto 📧
-- **Email**: [amarillamatias71@gmail.com](matiasamarilla010@gmail.com)
+- **Email**: [matiasamarilla010@gmail.com](matiasamarilla010@gmail.com)
 - **WhatsApp**: [¡Envíame un mensaje!](https://wa.me/+595976261200)
 
