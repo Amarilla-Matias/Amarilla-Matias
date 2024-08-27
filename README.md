@@ -7,7 +7,7 @@
 ## Sobre mí 😊
 
 - 👨‍💻 **Desarrollador Junior** con conocimientos medios en **Java** y **Python**
-- 💡 **FastAPI, API Resto, GitHub**
+- 💡 **FastAPI, API Rest, GitHub**
 - 🤖 **Apasionado por la Robótica (EV3, VEX)**
 - 🎨 **Desarrollador Web (HTML, CSS,)**
 - 🧠 **Siempre aprendiendo algo nuevo**
