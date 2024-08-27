@@ -7,8 +7,9 @@
 ## Sobre mí 😊
 
 - 👨‍💻 **Desarrollador Junior** con conocimientos medios en **Java** y **Python**
-- 💡 **Apasionado por la Robótica (EV3, VEX)**
-- 🎨 **Desarrollador Web (HTML, CSS, PHP)**
+- 💡 **FastAPI, API Resto, GitHub**
+- 🤖 **Apasionado por la Robótica (EV3, VEX)**
+- 🎨 **Desarrollador Web (HTML, CSS,)**
 - 🧠 **Siempre aprendiendo algo nuevo**
 
 ## Tecnologías Conocidas 🎉
